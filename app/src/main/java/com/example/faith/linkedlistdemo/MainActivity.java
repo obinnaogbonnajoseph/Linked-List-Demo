@@ -34,8 +34,8 @@ public class MainActivity extends AppCompatActivity {
 
         mList = new LinkedList<>();
         mList.add("Obinna");
-        mList.add("Kene");
-        mList.add("Chinedu");
+        mList.add("Ogbonna");
+        mList.add("Joseph");
         mList.add("Mary");
         mList.add("Ada");
 
