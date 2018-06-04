@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LinkedListDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="name_hint">Name</string>
+    <string name="position_hint">Position</string>
+    <string name="add_button_text">ADD</string>
+    <string name="default_name">[Name]</string>
+    <string name="default_position">\?</string>
+    <string name="number_hint">No</string>
+</resources>
