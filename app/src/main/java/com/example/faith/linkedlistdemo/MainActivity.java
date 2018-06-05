@@ -33,9 +33,9 @@ public class MainActivity extends AppCompatActivity {
         listRecyclerView.setLayoutManager(new LinearLayoutManager(this));
 
         mList = new LinkedList<>();
-        mList.add("Obinna");
+        mList.add("Chigozie");
+        mList.add("Evans");
         mList.add("Ogbonna");
-        mList.add("Joseph");
         mList.add("Mary");
         mList.add("Ada");
 
